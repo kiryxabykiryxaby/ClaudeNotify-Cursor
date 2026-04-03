@@ -154,10 +154,8 @@ Create `CURSOR-SETUP.md` in the current working directory:
 
 Клик на уведомление → **Cursor** на передний план.
 
-Форк: [CursorNotify / ClaudeNotify-Cursor](https://github.com/) — только для Cursor IDE; upstream: [ClaudeNotify](https://github.com/Ph0enixT1m3/ClaudeNotify).
+Форк: [ClaudeNotify-Cursor](https://github.com/kiryxabykiryxaby/ClaudeNotify-Cursor) — только для Cursor IDE; upstream: [ClaudeNotify](https://github.com/Ph0enixT1m3/ClaudeNotify).
 ```
-
-(Replace the placeholder GitHub URL with this repository’s URL once published.)
 
 ---
 

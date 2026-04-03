@@ -23,16 +23,18 @@
 
 ### Вариант 1 — через Cursor (рекомендуется)
 
-В чате Claude Code в Cursor выполни загрузку инструкций с **этого** репозитория (подставь свой URL после публикации):
+В чате Claude Code в Cursor:
 
 ```
-Прочитай и выполни инструкции из: https://raw.githubusercontent.com/<YOUR_USER>/ClaudeNotify-Cursor/main/INSTALL-PROMPT.md
+Прочитай и выполни инструкции из: https://raw.githubusercontent.com/kiryxabykiryxaby/ClaudeNotify-Cursor/main/INSTALL-PROMPT.md
 ```
+
+Исходники и обсуждения: [github.com/kiryxabykiryxaby/ClaudeNotify-Cursor](https://github.com/kiryxabykiryxaby/ClaudeNotify-Cursor).
 
 ### Вариант 2 — `install.sh`
 
 ```bash
-git clone https://github.com/<YOUR_USER>/ClaudeNotify-Cursor.git
+git clone https://github.com/kiryxabykiryxaby/ClaudeNotify-Cursor.git
 cd ClaudeNotify-Cursor
 bash install.sh
 ```
@@ -111,8 +113,8 @@ xattr -dr com.apple.quarantine ~/Applications/ClaudeNotify.app
 
 ## Связь с оригиналом
 
-- **Автор идеи и upstream:** [Ph0enixT1m3/ClaudeNotify](https://github.com/Ph0enixT1m3/ClaudeNotify) (MIT)
-- **Этот репозиторий:** только адаптация под **Cursor IDE**; для VS Code используйте upstream.
+- **Этот форк (только Cursor IDE):** [kiryxabykiryxaby/ClaudeNotify-Cursor](https://github.com/kiryxabykiryxaby/ClaudeNotify-Cursor)
+- **Идея и upstream (VS Code):** [Ph0enixT1m3/ClaudeNotify](https://github.com/Ph0enixT1m3/ClaudeNotify) (MIT)
 
 ## Лицензия
 
